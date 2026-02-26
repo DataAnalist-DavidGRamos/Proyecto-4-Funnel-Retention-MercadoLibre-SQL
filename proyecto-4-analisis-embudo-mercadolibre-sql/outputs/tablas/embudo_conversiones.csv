@@ -1,0 +1,8 @@
+etapa,usuarios,conversion_desde_first_visit
+first_visit,1199,100.00
+select_item,922,76.90
+add_to_cart,132,11.01
+begin_checkout,48,4.00
+add_shipping_info,29,2.42
+add_payment_info,25,2.09
+purchase,15,1.25
