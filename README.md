@@ -152,7 +152,8 @@ Los archivos CSV con todos los resultados están en:
 
 ## 📝 Informe Ejecutivo
 
-Ver [resumen ejecutivo completo](informes/resumen_ejecutivo_cfi.md) con metodología C-F-I (Contexto-Hallazgo-Implicación).
+Ver [resumen ejecutivo completo](Proyecto-4-Funnel-Retention-MercadoLibre-SQL/proyecto-4-analisis-embudo-mercadolibre-sql/informes
+/resumen_ejecutivo_cfi.md) con metodología C-F-I (Contexto-Hallazgo-Implicación).
 
 ## 🧠 Reflexiones del Analista
 
