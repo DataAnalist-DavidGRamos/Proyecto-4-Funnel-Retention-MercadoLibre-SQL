@@ -30,7 +30,7 @@ Proyecto de análisis de producto para MercadoLibre, donde actué como analista 
 - **GitHub** para control de versiones
 
 ## 📂 Estructura del Proyecto
-
+Ver[Carpeta de proyecto](proyecto-4-analisis-embudo-mercadolibre-sql)
 ```
 📦 proyecto-4-analisis-embudo-mercadolibre-sql
  ┣ 📂 data                  # Diccionario de datos y documentación de tablas
