@@ -30,7 +30,7 @@ Proyecto de análisis de producto para MercadoLibre, donde actué como analista 
 - **GitHub** para control de versiones
 
 ## 📂 Estructura del Proyecto
-Ver[Carpeta de proyecto](proyecto-4-analisis-embudo-mercadolibre-sql)
+Ver [Carpeta de proyecto](proyecto-4-analisis-embudo-mercadolibre-sql)
 ```
 📦 proyecto-4-analisis-embudo-mercadolibre-sql
  ┣ 📂 data                  # Diccionario de datos y documentación de tablas
@@ -78,7 +78,7 @@ Resumen ejecutivo dirigido a stakeholders (director de producto, equipo de creci
 ### 📁 **outputs/tablas/**
 Resultados del análisis en formato CSV, listos para ser utilizados en visualizaciones, dashboards o presentaciones. Incluye métricas de embudo, conversión por país y retención por cohorte.
 
-### 📁 **sql/** Ver [consultas SQL](proyecto-4-analisis-embudo-mercadolibre-sql/sql)
+### 📁 **sql/** [consultas SQL](proyecto-4-analisis-embudo-mercadolibre-sql/sql)
 Todas las consultas SQL utilizadas en el análisis, organizadas numéricamente por etapa del proyecto. Cada archivo incluye comentados los resultados obtenidos para trazabilidad y reproducibilidad.
 
 ## 🔍 Principales Hallazgos
@@ -156,7 +156,8 @@ Ver [resumen ejecutivo completo](proyecto-4-analisis-embudo-mercadolibre-sql/inf
 
 ## 🧠 Reflexiones del Analista
 
-Ver [reflexiones conceptuales](docs/reflexiones_analista.md) sobre el comportamiento de usuarios y recomendaciones.
+Ver [reflexiones conceptuales](proyecto-4-analisis-embudo-mercadolibre-sql/docs/reflexiones_analista.md) sobre el comportamiento de usuarios y recomendaciones.
 
 
 [https://www.linkedin.com/in/david-g-ramos/]
+[https://dataanalist-davidgramos.github.io/mi-sitio-web/]
