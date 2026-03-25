@@ -78,7 +78,7 @@ Resumen ejecutivo dirigido a stakeholders (director de producto, equipo de creci
 ### 📁 **outputs/tablas/**
 Resultados del análisis en formato CSV, listos para ser utilizados en visualizaciones, dashboards o presentaciones. Incluye métricas de embudo, conversión por país y retención por cohorte.
 
-### 📁 **sql/**
+### 📁 **sql/** Ver [consultas SQL](proyecto-4-analisis-embudo-mercadolibre-sql/sql)
 Todas las consultas SQL utilizadas en el análisis, organizadas numéricamente por etapa del proyecto. Cada archivo incluye comentados los resultados obtenidos para trazabilidad y reproducibilidad.
 
 ## 🔍 Principales Hallazgos
