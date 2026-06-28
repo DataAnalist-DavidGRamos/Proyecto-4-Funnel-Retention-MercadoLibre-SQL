@@ -158,6 +158,7 @@ Ver [resumen ejecutivo completo](proyecto-4-analisis-embudo-mercadolibre-sql/inf
 
 Ver [reflexiones conceptuales](proyecto-4-analisis-embudo-mercadolibre-sql/docs/reflexiones_analista.md) sobre el comportamiento de usuarios y recomendaciones.
 
-
-[https://www.linkedin.com/in/david-g-ramos/]
-[https://dataanalist-davidgramos.github.io/mi-sitio-web/]
+### AUTOR:
+David Germán Ramos Rodríguez
+[LinkedIn](https://www.linkedin.com/in/david-g-ramos/) | 
+[Sitio Web](https://dataanalist-davidgramos.github.io/mi-sitio-web/)
